@@ -111,7 +111,7 @@ This repository presents the **workflow, architecture, and UI previews** of a fu
   <img src="https://github.com/sanjaysubramanian04/Astrology-Project/blob/9f3d7a12579fb4f5058f6793716035f5045cd3f5/astro1.png" width="700"/>
   <img src="https://github.com/sanjaysubramanian04/Astrology-Project/blob/f2c19fd6f629c191c4411a7d37fb0b0b767506e5/astro2.png" width="700"/>
   <img src="https://github.com/sanjaysubramanian04/Astrology-Project/blob/9895cec9db79c9aaf349f9a4725d34079f288230/astro3.png" width="700"/>
-  <img src="images/astro1.png" width="700"/>
+  <img src="https://github.com/sanjaysubramanian04/Astrology-Project/blob/4ea0921c1cc15539f31f4935bc0188fddac5b884/astro4.png" width="700"/>
 </p>
 
 ---

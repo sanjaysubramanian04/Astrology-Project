@@ -108,7 +108,7 @@ This repository presents the **workflow, architecture, and UI previews** of a fu
 # 🖼️ UI Preview
 
 <p align="center">
-  <img src="images/astro1.png" width="700"/>
+  <img src="https://github.com/sanjaysubramanian04/Astrology-Project/blob/9f3d7a12579fb4f5058f6793716035f5045cd3f5/astro1.png" width="700"/>
   <img src="images/astro2.png" width="700"/>
   <img src="images/astro3.png" width="700"/>
   <img src="images/astro1.png" width="700"/>

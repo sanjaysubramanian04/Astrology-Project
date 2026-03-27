@@ -2,6 +2,8 @@
 
 This repository presents the **workflow, architecture, and UI previews** of a full-stack astrology system built using **pure mathematical and traditional astrology logic (no AI involved)**.
 
+✔ Multi-language support (English & Tamil)
+
 > ⚠️ Source code is kept private due to future product development and commercialization plans.
 
 ---
@@ -101,7 +103,13 @@ This repository presents the **workflow, architecture, and UI previews** of a fu
   - Charts  
   - Tables  
   - Predictions  
-- Clean and user-friendly interface  
+- Clean and user-friendly interface
+
+  ---
+
+# 🌐 Language Support
+
+This application supports **English and Tamil (தமிழ்)** to improve accessibility for a wider audience.
 
 ---
 

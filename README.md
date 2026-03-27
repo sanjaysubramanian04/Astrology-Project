@@ -1,1 +1,137 @@
-# Astrology-Project
+# 🔮 Astrology Software – Full Stack Application
+
+This repository presents the **workflow, architecture, and UI previews** of a full-stack astrology system built using **pure mathematical and traditional astrology logic (no AI involved)**.
+
+> ⚠️ Source code is kept private due to future product development and commercialization plans.
+
+---
+
+# 🏗️ Tech Stack
+
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- React.js  
+
+### Backend
+- Node.js  
+- Express.js  
+
+### Database & Authentication
+- Firebase Authentication  
+- Firebase Firestore  
+
+### Deployment
+- Vercel (Frontend Hosting)  
+- Backend hosted on cloud server  
+
+---
+
+# 🔄 Complete Workflow
+
+## 1️⃣ User Input
+- User enters:
+  - Date of Birth  
+  - Time of Birth  
+  - Place of Birth  
+- Input validation is handled on the frontend  
+
+---
+
+## 2️⃣ Frontend (React)
+- Manages form data and UI  
+- Sends request to backend API  
+- Handles response and displays results dynamically  
+
+---
+
+## 3️⃣ API Communication
+- Frontend sends a `POST` request:
+
+
+
+- Data is passed in JSON format  
+
+---
+
+## 4️⃣ Backend Processing (Node.js + Express)
+
+### 🔹 Astronomical Calculations
+- Computes:
+  - Planetary positions  
+  - Ascendant (Lagna)  
+  - House divisions  
+- Based on time, date, and location  
+
+---
+
+### 🔹 Astrology Logic Engine
+- Applies traditional rules:
+  - Zodiac (Rasi) classification  
+  - House (Bhava) mapping  
+  - Planetary strengths and placements  
+
+---
+
+### 🔹 Dasa Calculation
+- Implements **Vimshottari Dasa system**
+- Calculates planetary periods and timelines  
+
+---
+
+## 5️⃣ Database (Firebase)
+- Stores:
+  - User data  
+  - Horoscope results  
+- Firebase Authentication for secure login/signup  
+
+---
+
+## 6️⃣ Response Generation
+- Backend returns structured data:
+  - Planet positions  
+  - Horoscope details  
+  - Dasa timeline  
+
+---
+
+## 7️⃣ Frontend Display
+- Displays:
+  - Charts  
+  - Tables  
+  - Predictions  
+- Clean and user-friendly interface  
+
+---
+
+# 🖼️ UI Preview
+
+<p align="center">
+  <img src="images/astro1.png" width="700"/>
+  <img src="images/astro2.png" width="700"/>
+  <img src="images/astro3.png" width="700"/>
+</p>
+
+---
+
+# 🔒 Note
+This repository contains **only workflow and UI previews**.  
+Source code is private for future commercial use.
+
+---
+
+# 🎯 Highlights
+- Pure logic-based astrology system (No AI)  
+- Full-stack architecture  
+- Secure authentication  
+- Real-time calculation engine  
+- Scalable for future product development  
+
+---
+
+# 🚀 Future Scope
+- Advanced visualization of charts  
+- Multi-language support  
+- Mobile application version  
+- Performance optimization

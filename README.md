@@ -130,6 +130,16 @@ Source code is private for future commercial use.
 
 ---
 
+## 🔒 License
+This project is proprietary and intended for demonstration purposes only.
+
+The source code, logic, and implementation are not publicly available.
+
+Unauthorized copying, modification, distribution, or reuse of this project
+is strictly prohibited without prior permission from the author.
+
+---
+
 # 🎯 Highlights
 - Pure logic-based astrology system (No AI)  
 - Full-stack architecture  
